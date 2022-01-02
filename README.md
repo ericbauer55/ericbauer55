@@ -13,7 +13,7 @@
 
 <br />
 
-<!-- ### Languages and Tools:-->
+### Languages and Tools:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbauer55)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
