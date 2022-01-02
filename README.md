@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Eric 👋
 
-<!--
-**ericbauer55/ericbauer55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Husband, Father, Developer, and Teacher!!
 
-Here are some ideas to get you started:
+- 🔭 I am current working on a data science series focused on bike ride data you can create!
+- 🌱 I’m currently learning git, AWS and the workflows of data engineering--all through projects
+<!-- - 👯 I’m looking to collaborate with other content creators -->
+- 🥅 2022 Goals: Explore more datasets, build more models and share the process!
+- ⚡ Fun fact: I love to paint watercolors, ride bike and climb rocks
+- 😄 Pronouns: he/him
+- 📫 How to reach me: eric.bauer55@gmail.com
+- 💬 Chat with me on [LinkedIn](www.linkedin.com/in/eric-bauer55)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
