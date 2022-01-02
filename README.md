@@ -13,8 +13,16 @@
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:-->
 
 ---
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericbauer55)](https://git.io/streak-stats)
+  <img align="left" alt="ericbauer55's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ericbauer55&show_icons=true&hide_border=true" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ericbauer55)](https://git.io/streak-stats)
+
+</details>
+
+
+
