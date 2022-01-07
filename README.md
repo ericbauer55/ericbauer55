@@ -13,6 +13,11 @@
 
 <br />
 
+### Latest Blogs:
+📙[Analyzing Your Own Mobility Dataset -- Part 2](https://medium.com/99p-labs/analyzing-your-own-mobility-dataset-the-basics-part-2-2b55e023ef74)
+📙[What It Takes to Win a Hackathon Mobility Challenge](https://medium.com/99p-labs/what-it-takes-to-win-a-hackathon-mobility-challenge-42832a376722)
+📙[Analyzing Your Own Mobility Dataset -- Part 1](https://medium.com/99p-labs/analyzing-your-own-mobility-dataset-part-1-4b4b3ba80eff)
+
 ### Languages and Tools:
 <details>
   <summary>:zap: Language Stats</summary>
