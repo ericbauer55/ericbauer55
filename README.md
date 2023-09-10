@@ -1,11 +1,11 @@
 ### Hi there, I'm Eric 👋
 
-## I'm a Husband, Data Scientist, and Adventurer!
+## I'm a Data Scientist, Artist and Adventurer!
 
 - 🔭 I am current working on a full-stack data science series focused on bike ride data!
-- 🌱 I’m currently learning git, AWS and the workflows of data engineering--all through projects
+- 🌱 I’m currently learning about Graph Neural Networks 
 <!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2022 Goals: Explore more datasets, build more models and share the process!
+- 🥅 2023 Goals: Explore more datasets, build more models and share the process!
 - ⚡ Fun fact: I love to paint watercolors, ride bike and climb rocks
 - 😄 Pronouns: he/him
 - 📫 How to reach me: eric.bauer55@gmail.com
@@ -22,13 +22,13 @@
 
 📙[Analyzing Your Own Mobility Dataset -- Part 1](https://medium.com/99p-labs/analyzing-your-own-mobility-dataset-part-1-4b4b3ba80eff)
 
-### Languages and Tools:
+<!--### Languages and Tools:
 <details>
   <summary>:zap: Language Stats</summary>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbauer55)](https://github.com/anuraghazra/github-readme-stats)
   
-</details>
+</details>-->
 
 ---
 <details>
