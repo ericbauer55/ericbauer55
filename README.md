@@ -2,10 +2,10 @@
 
 ## I'm a Data Scientist, Artist and Adventurer!
 
-- 🔭 I am current working on a full-stack data science series focused on bike ride data!
+- 🔭 I am current working analyzing my Ohio to Erie Trail bike training dataset
 - 🌱 I’m currently learning about Graph Neural Networks 
 <!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2023 Goals: Explore more datasets, build more models and share the process!
+- 🥅 2025 Goals: Explore more datasets, build more models and deploy at least one in a homelab!
 - ⚡ Fun fact: I love to paint watercolors, ride bike and climb rocks
 - 😄 Pronouns: he/him
 - 📫 How to reach me: eric.bauer55@gmail.com
